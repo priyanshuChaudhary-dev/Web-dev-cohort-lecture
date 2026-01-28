@@ -23,3 +23,5 @@ function divide(a, b) {
 }
 divide(10, 5);
 divide(100, 5);
+divide(100, 5);
+divide(1453, 5);
