@@ -9,3 +9,9 @@ function multiply(a, b) {
   return a * b;
 }
 multiply(2, 3);
+
+function subs(a, b) {
+  return a - b;
+}
+subs(10, 4);
+subs(40, 68);
