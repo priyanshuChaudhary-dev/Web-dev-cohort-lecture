@@ -15,3 +15,4 @@ function subs(a, b) {
 }
 subs(10, 4);
 subs(40, 68);
+subs(40, 654);
