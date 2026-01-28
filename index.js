@@ -16,3 +16,12 @@ function subs(a, b) {
 subs(10, 4);
 subs(40, 68);
 subs(40, 654);
+subs(40, 6);
+
+function divide(a, b) {
+  return a / b;
+}
+divide(10, 5);
+divide(100, 5);
+divide(100, 5);
+divide(1453, 5);
